@@ -1,1 +1,1 @@
-# SaCD
+# Saturating Coordinate Descent (SaCD)
